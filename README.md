@@ -2,6 +2,8 @@
 
 Olá, eu sou Gabriel Bursi 
 
+![fotoperfil](https://user-images.githubusercontent.com/107154262/173684397-76f66f02-29c9-493f-aab3-665abec6d52f.png)
+
 ## Atualmente estudando 
 
 - HTML
@@ -14,6 +16,7 @@ Olá, eu sou Gabriel Bursi
 
 ## Meus contatos
 
-- Instagram:https: https://www.instagram.com/gabriel.bursi/
-- Email: gabrielcavalarosuporte@gmail.com
-- Github: https://github.com/GabrielBursi
+- Instagram:https: https://www.instagram.com/gabriel.bursi/ 
+- Email: gabrielcavalarosuporte@gmail.com 
+- Github: https://github.com/GabrielBursi 
+
