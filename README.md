@@ -7,9 +7,6 @@ Olá, eu sou Gabriel Bursi
 - HTML
 - CSS
 - JavaScript
-  - Estrutura de dados
-  - POO
-  - Desenvolvimento Web
 - Git e GitHub
 
 ## Meus contatos
