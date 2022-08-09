@@ -1,6 +1,6 @@
 # Olá! eu sou Gabriel Bursi ✌️
 
-- 📚 Cursando Eng. de Software, sempre tive muito interesse na área de tecnologia, hoje me dedico bastante para programação, estudo através do YouTube com cursos gratuitos, artigos na internet, livros e sou aluno dos cursos OneBitCode e Staart. 
+- 📚 Cursando Eng. de Software, sempre tive muito interesse na área de tecnologia, hoje me dedico bastante para programação, estudo através do YouTube com cursos gratuitos, artigos na internet, livros e sou aluno dos cursos OneBitCode e Staart, por enquanto estudo Front-end no desenvolvimento Web.
 
 - 💭 Estou a procura de uma primeira experiência em um ramo de tecnologia como programador. Sempre foquei em melhorar e aprender novas coisas, principalmente com pessoas mais experientes. Cada dia que passa procuro melhorar e estar mais preparado pro futuro, quero fazer parte dessa revolução que está acontecendo que se chama tecnologia.
 
@@ -11,7 +11,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 
 ## Meus contatos:
