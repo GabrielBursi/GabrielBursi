@@ -9,7 +9,7 @@
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MUL](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
+<!-- ![MUL](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green) -->
 ## 📱 Redes sociais:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel.bursi/)
