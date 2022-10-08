@@ -55,7 +55,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Gab/Gab/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/GabrielBursi/GabrielBursi/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
