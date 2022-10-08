@@ -56,9 +56,3 @@
 ###
 
 <img src="https://raw.githubusercontent.com/GabrielBursi/GabrielBursi/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GabrielBursi.GabrielBursi&left_color=blueviolet&right_color=blue"  />
-
-###
