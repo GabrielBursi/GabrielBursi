@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📚 Cursando Eng. de Software, sempre tive muito interesse na área de tecnologia, hoje me dedico bastante para programação, estudo através do YouTube com cursos gratuitos, artigos na internet, livros e sou aluno dos cursos OneBitCode e Staart.</p>
+<p align="left">📚 Cursando Eng. de Software, sempre tive muito interesse na área de tecnologia, hoje me dedico bastante para programação, estudo através do YouTube com cursos gratuitos, artigos na internet, livros e alguns cursos pagos tambem.</p>
 
 ###
 
