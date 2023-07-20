@@ -1,20 +1,16 @@
-<h1 align="center">Olá! meu nome é Gabriel, seja bem-vindo(a)! ✌️</h1>
+<h1 align="left">Olá! meu nome é Gabriel, seja bem-vindo(a)! ✌️</h1>
 
 ###
 
-<p align="left">📚 Cursando Eng. de Software, sempre tive muito interesse na área de tecnologia, hoje me dedico bastante para programação, estudo através do YouTube com cursos gratuitos, artigos na internet, livros e alguns cursos pagos tambem.</p>
+<p align="left">Olá! Sou um apaixonado por tecnologia de 21 anos e meu foco principal está no incrível mundo do desenvolvimento front-end, onde utilizo tecnologias como React, Next, Vue e TypeScript para criar experiências incríveis.</p>
 
 ###
 
-<p align="left">💡 Atualmente meu foco na programação é o Front-End, mas quero aprender o máximo de tecnologias possíveis, me tornando um programador Fullstack.</p>
+<h2 align="left">🌐 Tecnologias:</h2>
 
 ###
 
-<h2 align="center">🌐 Tecnologias:</h2>
-
-###
-
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" width="65" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" width="65" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" width="65" alt="bootstrap logo"  />
