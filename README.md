@@ -1,12 +1,12 @@
-<h1 align="left">Olá! meu nome é Gabriel, seja bem-vindo(a)! ✌️</h1>
+<h1 align="left">Hello! My name is Gabriel, welcome! ✌️</h1>
 
 ###
 
-<p align="left">Sou um apaixonado por tecnologia de 21 anos e meu foco principal está no incrível mundo do desenvolvimento front-end, onde utilizo tecnologias como React, Next, Vue e TypeScript para criar experiências incríveis.</p>
+<p align="left">I'm a 21-year-old technology enthusiast, and my main focus is on the exciting world of front-end development, where I use technologies like React, React Native, NextJS, NodeJS to create amazing experiences.</p>
 
 ###
 
-<h2 align="left">🌐 Tecnologias:</h2>
+<h2 align="left">🌐 Technologies I work with:</h2>
 
 ###
 
@@ -39,7 +39,7 @@
 
 ###
 
-<h2 align="left">📱 Redes sociais:</h2>
+<h2 align="left">📱 Social Media:</h2>
 
 ###
 
