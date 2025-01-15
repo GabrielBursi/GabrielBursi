@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">I'm a 21-year-old technology enthusiast, and my main focus is on the exciting world of front-end development, where I use technologies like React, React Native, NextJS, NodeJS to create amazing experiences.</p>
-
-###
-
 <h2 align="left">🌐 Technologies I work with:</h2>
 
 ###
