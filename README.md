@@ -55,3 +55,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&username=GabrielBursi" height="150" alt="languages graph"  />
 </div>
 <hr>
+
+take a look into my [studylog](https://github.com/GabrielBursi/studylog) 🤓
