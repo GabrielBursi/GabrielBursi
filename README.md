@@ -58,4 +58,6 @@
 </div>
 <hr>
 
+[![An image of @gabrielbursi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gabrielbursi)](https://holopin.io/@gabrielbursi)
+
 take a look into my [studylog](https://github.com/GabrielBursi/studylog) 🤓
